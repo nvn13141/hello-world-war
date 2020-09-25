@@ -26,12 +26,12 @@
 		</plugins>
 			</build>
 
-
-		<distributionManagement>
+<distributionManagement>
   <snapshotRepository>
-    <id>nexus</id>
-    <url>http://18.218.191.175:8081/nexus/content/repositories/snapshots</url>
+    <id>snapshots</id>
+    <url>http://3.128.189.110:8081/nexus/content/repositories/snapshots</url>
   </snapshotRepository>
 </distributionManagement>
+		
 
 </project>
